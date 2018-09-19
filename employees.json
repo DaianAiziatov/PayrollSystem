@@ -1,0 +1,50 @@
+ [
+  {
+  "name":"John",
+  "age":18,
+  "vehicle":{
+  "type":"car",
+  "model":"Honda SUV",
+  "color":"black",
+  "registration_no":"CF123W",
+  "seater":4
+  },
+  "employement":{
+  "type":"parttime-fixed",
+  "rate": 30, 
+  "hours_worked": 1 ,
+  "fixed_amount": 40
+  }
+  },
+  {
+  "name":"Cindy",
+  "age":30,
+  "vehicle":{
+
+  },
+  "employement":{
+  "type":"parttime-commission",
+  "rate": 30,
+  "hours_worked": 10,
+  "commision": 40
+  }
+  },
+  {
+  "name":"Cindy2",
+  "age":24,
+  "vehicle":{
+  "type":"motorcycle",
+  "year": 1994,
+  "model":"XYZ",
+  "color":"black",
+  "registration_no":"CF123W",
+  "engine_type" : "V8",
+  "stroller":true
+  },
+  "employement":{
+  "type":"intern",
+  "earning": 1000,
+  "school_name":"Lamton"
+  }
+  }
+  ]
